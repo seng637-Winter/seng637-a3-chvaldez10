@@ -1,0 +1,42 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Maven directory
+target/
+
+# IDE - Eclipse specific
+.classpath
+.project
+.settings/
+
+# IDE - IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+
+# IDE - Visual Studio Code specific
+.vscode/
+
+# Mac OS folder attributes
+.DS_Store
+
+# Windows folder attributes
+Thumbs.db
+
+# Personal Files
+seng637-a2-artifacts
